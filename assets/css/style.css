@@ -4,11 +4,11 @@
 
 /* brand color palette */
 :root {
-  --color-one: #0a3808;
-  --color-two: #245022;
-  --color-three: #40943B;
-  --dark: #293329;
-  --light: #badbb8;
+  --color-one: #000000;
+  --color-two: #008066;
+  --color-three: #00FFCC;
+  --dark: #80FFE6;
+  --light: #FFFFFF;
 }
 
 body {
@@ -40,7 +40,7 @@ header {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-color: var(--color-three);
+  background-color: var(--dark);
   box-shadow: 0 5px 35px #245022;
 }
 
@@ -87,7 +87,7 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
+  background: rgba(138, 157, 197, 0.3);
   background-image: url("../images/profile-photo.jpg"), linear-gradient(180deg, var(--color-two) 0%, var(--color-one) 100%);
   background-size: cover;
   background-position: center;
@@ -155,8 +155,8 @@ main {
 }
 
 .flex-item {
-  border: 5px solid var(--color-two);
-  background-color: var(--color-one);
+  border: 5px solid var(--color-one);
+  background-color: var(--color-two);
   color: var(--color-three);
   min-height: 150px;
   max-height: 150px;
@@ -200,7 +200,7 @@ main {
 }
 
 .contact address a {
-  color: var(--color-three);
+  color: var(--color-two);
   padding: 5px;
   text-decoration: none;
   font-size: 1.3rem;
