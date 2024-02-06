@@ -5,8 +5,8 @@ webpage-for-displaying-sample-projects-and-contact-info-for-portfolio
 ## webpage-description
 webpage-is-mainly-used-for-html-and-css-practice-but-there-are-several-working-links-that-display-sample-projects-resume-and-contact-info
 ## webpage-access
-URL: https://brackenluke.github.io/challenge-two/
+URL: https://brackenluke.github.io/portfolio-html-css/
 ## repo-access
-GitHub URL: https://github.com/brackenluke/challenge-two
+GitHub URL: https://github.com/brackenluke/portfolio-html-css
 ## webpage-screenshot
 Screenshot: ![Webpage Screenshot showing hero image with header section](./assets/images/webpage-README-screenshot.png "Webpage Screenshot")
