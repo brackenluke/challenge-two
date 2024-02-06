@@ -8,5 +8,5 @@ webpage-is-mainly-used-for-html-and-css-practice-but-there-are-several-working-l
 URL: https://brackenluke.github.io/challenge-two/
 ## repo-access
 GitHub URL: https://github.com/brackenluke/challenge-two
-## webpage-screenshot-url
-Screenshot: ![Click Here](./assets/images/webpage-README-screenshot.png "Webpage Screenshot")
+## webpage-screenshot
+Screenshot: ![Webpage Screenshot showing hero image with header section](./assets/images/webpage-README-screenshot.png "Webpage Screenshot")
