@@ -9,4 +9,4 @@ URL: https://brackenluke.github.io/challenge-two/
 ## repo-access
 GitHub URL: https://github.com/brackenluke/challenge-two
 ## webpage-screenshot-url
-Screenshot: ![Alt text](/relative/path/to/img.jpg?raw=true "Webpage Screenshot")
+Screenshot: ![Click Here](./assets/images/webpage-README-screenshot.png "Webpage Screenshot")
